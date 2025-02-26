@@ -7,23 +7,29 @@
 &nbsp;
 
 ### 🚀 프로젝트 소개
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <th style="width: 25%; text-align: center; border: 1px solid #ddd; padding: 8px;">AuraTalk</th>
+    <th style="width: 75%; text-align: center; border: 1px solid #ddd; padding: 8px;">설명</th>
+  </tr>
+  <tr>
+    <td style="text-align: center; border: 1px solid #ddd; padding: 8px; vertical-align: middle;">
+      <img src="https://github.com/user-attachments/assets/9815d64e-658b-48b1-a6e3-f103e3aae106" width="200"/>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px; vertical-align: middle;">
+      <b>AuraTalk</b>은 랜덤 채팅 플랫폼으로, 관심사가 비슷한 사람들과 연결되어 친구를 만들고 점차 친구의 범위를 넓혀갈 수 있는 환경을 제공합니다. AuraTalk과 함께 새로운 인연을 발견해보세요.<br>
+      <br><b>✨ 주요 특징</b><br>
+      • 실시간 메시징&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 음성 통화&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 랜덤 매칭&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 관심사 설정&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 그룹 채팅&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 파일 공유&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 친구 기능
+    </td>
+  </tr>
+</table>
 
-**AuraTalk**은 랜덤 채팅 플랫폼으로, 관심사가 비슷한 사람들과 연결되어 친구를 만들고 점차 친구의 범위를 넓혀갈 수 있는 환경을 제공합니다.
-
-**주요 특징**
-- 실시간 메시징
-- 음성 통화
-- 랜덤 매칭
-- 그룹 채팅
-- 관심사 설정
-- 파일 공유
-- 친구 수락/거절/차단
 
 &nbsp;
 
 ### 💻 기술 스택
 
-Frontend
+**Frontend**
 
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -32,7 +38,7 @@ Frontend
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
 
-Backend
+**Backend**
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=OpenJDK&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
